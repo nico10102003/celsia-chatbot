@@ -1,0 +1,76 @@
+{
+  "generated_at": "2026-10-24T15:53:33.725218+00:00",
+  "total_sources": 10,
+  "results": [
+    {
+      "title": "Sitio web oficial de Celsia",
+      "url": "https://www.celsia.com/es/",
+      "status": "success",
+      "file": "source_01.json",
+      "characters": 1510
+    },
+    {
+      "title": "Sobre nosotros",
+      "url": "https://www.celsia.com/es/ley-de-transparencia-y-acceso-a-la-informacion/sobre-nosotros/",
+      "status": "success",
+      "file": "source_02.json",
+      "characters": 1674
+    },
+    {
+      "title": "Gobierno corporativo",
+      "url": "https://www.celsia.com/es/quienes-somos/gobierno-corporativo/",
+      "status": "success",
+      "file": "source_03.json",
+      "characters": 20183
+    },
+    {
+      "title": "Sostenibilidad",
+      "url": "https://www.celsia.com/es/sostenibilidad/",
+      "status": "success",
+      "file": "source_04.json",
+      "characters": 3118
+    },
+    {
+      "title": "Informes de sostenibilidad",
+      "url": "https://www.celsia.com/es/sostenibilidad/reportes/",
+      "status": "success",
+      "file": "source_05.json",
+      "characters": 891
+    },
+    {
+      "title": "Sala de prensa",
+      "url": "https://www.celsia.com/es/sala-de-prensa/",
+      "status": "success",
+      "file": "source_06.json",
+      "characters": 615
+    },
+    {
+      "title": "Granjas solares",
+      "url": "https://www.celsia.com/es/granjas-solares/",
+      "status": "success",
+      "file": "source_07.json",
+      "characters": 4890
+    },
+    {
+      "title": "Oportunidades laborales",
+      "url": "https://www.celsia.com/es/se-parte-de-nuestro-equipo/",
+      "status": "success",
+      "file": "source_08.json",
+      "characters": 6009
+    },
+    {
+      "title": "Canales de contacto",
+      "url": "https://www.celsia.com/es/encuentranos/",
+      "status": "success",
+      "file": "source_09.json",
+      "characters": 882
+    },
+    {
+      "title": "Información para inversionistas",
+      "url": "https://www.celsia.com/es/inversionistas/celsia/",
+      "status": "success",
+      "file": "source_10.json",
+      "characters": 1260
+    }
+  ]
+}

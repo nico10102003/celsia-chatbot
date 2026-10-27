@@ -1,0 +1,114 @@
+{
+  "generated_at": "2026-10-24T16:28:27.144713+00:00",
+  "raw_dir": "C:\\Users\\Windows 11\\proyectos\\celsia-chatbot\\data\\raw",
+  "output_dir": "C:\\Users\\Windows 11\\proyectos\\celsia-chatbot\\data\\processed",
+  "chunk_size": 800,
+  "chunk_overlap": 100,
+  "total_sources": 10,
+  "processed_sources": 10,
+  "skipped_sources": 0,
+  "total_chunks": 66,
+  "results": [
+    {
+      "source_id": "source_01",
+      "file": "source_01.json",
+      "title": "Sitio web oficial de Celsia",
+      "url": "https://www.celsia.com/es/",
+      "category": "corporativo",
+      "characters": 1510,
+      "cleaned_characters": 1440,
+      "chunks": 3
+    },
+    {
+      "source_id": "source_02",
+      "file": "source_02.json",
+      "title": "Sobre nosotros",
+      "url": "https://www.celsia.com/es/ley-de-transparencia-y-acceso-a-la-informacion/sobre-nosotros/",
+      "category": "corporativo",
+      "characters": 1674,
+      "cleaned_characters": 1674,
+      "chunks": 3
+    },
+    {
+      "source_id": "source_03",
+      "file": "source_03.json",
+      "title": "Gobierno corporativo",
+      "url": "https://www.celsia.com/es/quienes-somos/gobierno-corporativo/",
+      "category": "gobierno_corporativo",
+      "characters": 20183,
+      "cleaned_characters": 20056,
+      "chunks": 32
+    },
+    {
+      "source_id": "source_04",
+      "file": "source_04.json",
+      "title": "Sostenibilidad",
+      "url": "https://www.celsia.com/es/sostenibilidad/",
+      "category": "sostenibilidad",
+      "characters": 3118,
+      "cleaned_characters": 3108,
+      "chunks": 5
+    },
+    {
+      "source_id": "source_05",
+      "file": "source_05.json",
+      "title": "Informes de sostenibilidad",
+      "url": "https://www.celsia.com/es/sostenibilidad/reportes/",
+      "category": "informes",
+      "characters": 891,
+      "cleaned_characters": 853,
+      "chunks": 2
+    },
+    {
+      "source_id": "source_06",
+      "file": "source_06.json",
+      "title": "Sala de prensa",
+      "url": "https://www.celsia.com/es/sala-de-prensa/",
+      "category": "noticias",
+      "characters": 615,
+      "cleaned_characters": 615,
+      "chunks": 1
+    },
+    {
+      "source_id": "source_07",
+      "file": "source_07.json",
+      "title": "Granjas solares",
+      "url": "https://www.celsia.com/es/granjas-solares/",
+      "category": "energia_solar",
+      "characters": 4890,
+      "cleaned_characters": 4890,
+      "chunks": 7
+    },
+    {
+      "source_id": "source_08",
+      "file": "source_08.json",
+      "title": "Oportunidades laborales",
+      "url": "https://www.celsia.com/es/se-parte-de-nuestro-equipo/",
+      "category": "empleo",
+      "characters": 6009,
+      "cleaned_characters": 6000,
+      "chunks": 9
+    },
+    {
+      "source_id": "source_09",
+      "file": "source_09.json",
+      "title": "Canales de contacto",
+      "url": "https://www.celsia.com/es/encuentranos/",
+      "category": "atencion",
+      "characters": 882,
+      "cleaned_characters": 844,
+      "chunks": 2
+    },
+    {
+      "source_id": "source_10",
+      "file": "source_10.json",
+      "title": "Información para inversionistas",
+      "url": "https://www.celsia.com/es/inversionistas/celsia/",
+      "category": "inversionistas",
+      "characters": 1260,
+      "cleaned_characters": 1260,
+      "chunks": 2
+    }
+  ],
+  "skipped": []
+}

@@ -1,0 +1,17 @@
+# Entorno y secretos
+.venv/
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# Índice local de Chroma
+data/index/
+
+# Archivos temporales
+._*

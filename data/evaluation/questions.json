@@ -1,0 +1,87 @@
+{
+  "version": "1.0",
+  "language": "es",
+  "description": "Preguntas de evaluacion de recuperacion RAG para CelsiaBot",
+  "questions": [
+    {
+      "id": "q01",
+      "question": "¿Con qué frecuencia realiza Celsia mantenimientos de la red eléctrica?"
+    },
+    {
+      "id": "q02",
+      "question": "¿Cuáles son los horarios de los cortes de energía programados?"
+    },
+    {
+      "question": "¿Qué proyectos de mejora del factor de potencia desarrolla Celsia?",
+      "id": "q03"
+    },
+    {
+      "question": "¿Cuántos clientes atiende Celsia actualmente?",
+      "id": "q04"
+    },
+    {
+      "question": "¿Cuántos colaboradores tiene Celsia?",
+      "id": "q05"
+    },
+    {
+      "question": "¿En qué países opera Celsia?",
+      "id": "q06"
+    },
+    {
+      "question": "¿Cuál es la política de riesgos de Celsia?",
+      "id": "q07"
+    },
+    {
+      "question": "¿Qué política de ciberseguridad tiene Celsia?",
+      "id": "q08"
+    },
+    {
+      "question": "¿Qué metas de sostenibilidad tiene Celsia?",
+      "id": "q09"
+    },
+    {
+      "question": "¿Qué indicadores de sostenibilidad reporta Celsia?",
+      "id": "q10"
+    },
+    {
+      "question": "¿Cuántas toneladas de CO2 ha evitado Celsia con sus proyectos renovables?",
+      "id": "q11"
+    },
+    {
+      "question": "¿Cuántas granjas solares tiene Celsia en operación?",
+      "id": "q12"
+    },
+    {
+      "question": "¿Cuál es la capacidad instalada de las granjas solares de Celsia?",
+      "id": "q13"
+    },
+    {
+      "question": "¿Qué es la granja solar Celsia Solar Escobal?",
+      "id": "q14"
+    },
+    {
+      "question": "¿Qué beneficios ofrece Celsia a sus colaboradores?",
+      "id": "q15"
+    },
+    {
+      "question": "¿Cómo puedo contactar a Celsia?",
+      "id": "q16"
+    },
+    {
+      "question": "¿Cuál es la calificación crediticia de Celsia?",
+      "id": "q17"
+    },
+    {
+      "question": "¿Cuándo fue la recompra de acciones de Celsia?",
+      "id": "q18"
+    },
+    {
+      "question": "¿Qué es el programa ReverdeC de Celsia?",
+      "id": "q19"
+    },
+    {
+      "question": "¿Qué son los autogeneradores de Celsia?",
+      "id": "q20"
+    }
+  ]
+}
