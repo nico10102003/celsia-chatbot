@@ -1,8 +1,9 @@
 [project]
 name = "celsia-chatbot"
-version = "0.1.0"
-description = "Add your description here"
+version = "1.0.0"
+description = "Chatbot corporativo de Celsia basado en RAG, scraping web y modelos de lenguaje"
 readme = "README.md"
+license = "MIT"
 authors = [
     { name = "nico10102003", email = "nicolas.bolanos@uao.edu.co" }
 ]
@@ -36,3 +37,4 @@ dev = [
 [tool.pytest.ini_options]
 testpaths = ["tests"]
 pythonpath = ["."]
+
