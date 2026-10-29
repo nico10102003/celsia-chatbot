@@ -1,0 +1,30 @@
+﻿name: CelsiaBot CI
+
+on:
+  push:
+    branches: [master, develop]
+  pull_request:
+    branches: [master, develop]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Instalar UV
+        uses: astral-sh/setup-uv@v6
+
+      - name: Configurar Python
+        run: uv python install 3.13
+
+      - name: Instalar dependencias
+        run: uv sync --locked
+
+      - name: Ejecutar pruebas
+        run: uv run pytest -q
+
+      - name: Revisar calidad del código
+        run: uv run ruff check .
