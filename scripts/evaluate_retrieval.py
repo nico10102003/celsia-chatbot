@@ -20,7 +20,7 @@ PROJECT_ROOT = Path(__file__).resolve().parents[1]
 if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
-from src.retrieval.retriever import Retriever  # noqa: E402
+from src.retrieval.retriever import Retriever
 
 RESULTS_DIR = PROJECT_ROOT / "data" / "evaluation"
 VECTOR_RESULTS_PATH = RESULTS_DIR / "vector_results.jsonl"

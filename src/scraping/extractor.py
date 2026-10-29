@@ -2,7 +2,7 @@
 
 import json
 import time
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 from pathlib import Path
 from urllib.parse import urlparse
 from urllib.robotparser import RobotFileParser
@@ -100,7 +100,7 @@ def extract_source(source):
             "title": source["title"],
             "url": response.url,
             "category": source["category"],
-            "extracted_at": datetime.now(timezone.utc).isoformat(),
+            "extracted_at": datetime.now(UTC).isoformat(),
             "text": text.strip(),
         }
 
@@ -143,7 +143,7 @@ def main():
             time.sleep(1)
 
     manifest = {
-        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "generated_at": datetime.now(UTC).isoformat(),
         "total_sources": len(SOURCES),
         "results": results,
     }
